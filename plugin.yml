@@ -1,0 +1,11 @@
+﻿name: NunseolMine
+version: "2.0-Release"
+api: [2.0.0]
+author: NunSeol
+main: nunseol\NunseolMine
+
+commands:
+  광질:
+    description: 돈을 광질 !
+  아이템광질:
+    description: 아이템을 광질 !
